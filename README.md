@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @soumyavk
+## 👋 Hi, I am SOUMYA BHATTACHARJEE
+
 - 👀 I’m interested in coding and also enthusiastic about machine learning
 - 🌱 I’m currently learning various machine learning algorithms and java programming.
 
