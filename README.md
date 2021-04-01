@@ -1,5 +1,7 @@
 ## 👋 Hi, I am SOUMYA BHATTACHARJEE
 
+<img src="Downloads/sou.png">
+
 - 👀 I’m interested in coding and also enthusiastic about machine learning
 - 🌱 I’m currently learning various machine learning algorithms and java programming.
 
