@@ -14,7 +14,7 @@
    https://github.com/soumyavk/Stroke-Prediction-Model
 2) Churn Prediction(Internshala Project)
    https://github.com/soumyavk/churn_prediction_internshala
-3)  Facial Expressions Recognition using Keras Framework
+3)  Facial Expressions Recognition using Keras Framework (Coursera Project)
     https://github.com/soumyavk/Facial_Expressions_Recognition_keras
 
 
