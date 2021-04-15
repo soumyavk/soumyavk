@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning various machine learning algorithms and java programming.
 - MY PROJECT WORKS ARE GIVEN BELOW
 
-# Web Development -
+### Web Development -
 1) School Management System
    https://github.com/soumyavk/School-Management-System
    
-# Machine Learning - 
+### Machine Learning - 
 1) Stoke Prediction Model
    https://github.com/soumyavk/Stroke-Prediction-Model
 2) Churn Prediction(Internshala Project)
