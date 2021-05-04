@@ -17,6 +17,9 @@
 3)  Facial Expressions Recognition using Keras Framework (Coursera Project)
     https://github.com/soumyavk/Facial_Expressions_Recognition_keras
 
+### Computer Networks - 
+1) Simple TCP program   
+   https://github.com/soumyavk/simple_tcp_code
 
 <!---
 soumyavk/soumyavk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
