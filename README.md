@@ -25,4 +25,6 @@
 soumyavk/soumyavk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyavk)](https://github.com/soumyavk/github-readme-stats)
+[![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyavk)](https://github.com/soumyavk/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyavk)](https://github.com/soumyavk/github-readme-stats)
+
